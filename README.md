@@ -1,5 +1,5 @@
 # eTextures
-My texture sets
+My texture sets for Quake 3 and Quake 4.
 
 # License
 
